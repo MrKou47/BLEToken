@@ -8,7 +8,7 @@ This tutorial will take you through the steps of building your first ERC20 token
 
 This repo contains the sample solidity file: 
 ```
-contracts/GGMToken.sol
+contracts/BLEToken.sol
 ```
 
 Feel free to leave any issues and I'll get back to you and help you out :)
